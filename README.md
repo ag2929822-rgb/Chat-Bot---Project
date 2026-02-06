@@ -29,6 +29,7 @@ Chat-Bot-Project/
 ├── requirements.txt
 ├── README.md
 └── data/
+Note: check the files as uploded
 
 ⚙️ Installation
 
