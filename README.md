@@ -25,10 +25,10 @@ Standard Python libraries
 📂 Project Structure
 Chat-Bot-Project/
 │
-├── chatbot.py
-├── requirements.txt
-├── README.md
-└── data/
+├── 01_get_cursor
+├── 02_openai
+├── 03_bot
+└── README.md
 Note: check the files as uploded
 
 ⚙️ Installation
